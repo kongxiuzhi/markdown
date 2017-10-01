@@ -81,9 +81,7 @@ Markdowm 支持两种形式的超链接语法： 行内式和参考式两种形�
 * 代码
 ```
     1.欢迎来到[GITHUB](https://github.com/ "是一个面向开源及私有软件项目的托管平台")
-    2.使用BING搜索[bing](https://www.bing.com/ “界面比较干净”)
 ```
 * 效果显示
     + 1.欢迎来到[GITHUB](https://github.com/ "是一个面向开源及私有软件项目的托管平台")
-    + 2.欢迎使用 [github](https://github.com/ “hello world”)
     
