@@ -73,7 +73,8 @@
 ```
 Markdowm 支持两种形式的超链接语法： 行内式和参考式两种形式，行内式使用较多
 ```
-
+* 行内式
+    * 语法形式
 ```
         []里写链接文字，()里写链接的地址，()中的“”中可以为链接指定title属性，title属性是当 
         鼠标悬停在链接上时显示指定的title文字。
@@ -102,10 +103,12 @@ Markdowm 支持两种形式的超链接语法： 行内式和参考式两种形�
       5.[2]:https://www.zhihu.com/ "中文社区"
       5.[3]:https://github.com/ "托管平台"
 ```
+
 * 显示效果
-   + 我经常使用的几个网站[BING][1]、[知乎][2]以及[GITHUB][3]，[stackoverflow][]是一个不错的网站
-      [stackoverflow]:https://stackoverflow.com/ "解决问题的网站"
-      [1]:www.bing.cmo "搜索网站"
-      [2]:https://www.zhihu.com "中文社区"
-      [3]:https://www.github.com "托管平台"
+    + 我经常使用的几个网站[BING][1]、[知乎][2]以及[GITHUB][3]，[stackoverflow][]是一个不错的网
+   
+   [stackoverflow]:https://stackoverflow.com/ "解决问题的网站"
+   [1]:www.bing.cmo "搜索网站"
+   [2]:https://www.zhihu.com "中文社区"
+   [3]:https://www.github.com "托管平台"
     
