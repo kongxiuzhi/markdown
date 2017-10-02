@@ -108,7 +108,7 @@ Markdowm 支持两种形式的超链接语法： 行内式和参考式两种形�
     + 我经常使用的几个网站[BING][1]、[知乎][2]以及[GITHUB][3]，[stackoverflow][]是一个不错的网
    
    [stackoverflow]:https://stackoverflow.com/ "解决问题的网站"
-   [1]:www.bing.cmo "搜索网站"
+   [1]:https://www.bing.cmo "搜索网站"
    [2]:https://www.zhihu.com "中文社区"
    [3]:https://www.github.com "托管平台"
     
